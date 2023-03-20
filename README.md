@@ -15,7 +15,7 @@ $ cd ./<choice_your_name>
 Clone the repository :
 
 ```
-$ git clone https://github.com/axelmitschidev/tiny-social-network-mvc-php.git .
+$ git clone https://github.com/Brendan-Viale/social_network_poo.git .
 ```
 
 Change your db ids if needed in ./src/models/Db.php :
